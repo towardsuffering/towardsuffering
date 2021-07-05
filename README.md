@@ -1,5 +1,5 @@
 # Christopher A. Rotunno
-## AKA [caRot](https:www.carot.io), @towardsuffering
+## AKA [caRot](https://carot.io/), @towardsuffering
 
 ---
 
