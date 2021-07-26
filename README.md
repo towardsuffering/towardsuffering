@@ -8,7 +8,8 @@ I try to "𝘵𝘩𝘪𝘯𝘬 𝘰𝘶𝘵𝘴𝘪𝘥𝘦 𝘵𝘩𝘦 𝘣�
 
 My experience in corporate culture is drawn from getting involved with retail banking, a financial technology startup, and a global economic firm.
 
-My career objective is to increase service standards in the financial sector by building business applications, workflows, and pipelines that save time, improve quality, and increase financial transparency.
+My career objective is to increase service standards in the financials sector by building business applications, workflows, and pipelines to save time, improve quality, and promote financial and computer literacy.
+
 <!---
 towardsuffering/towardsuffering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
