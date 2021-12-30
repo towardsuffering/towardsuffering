@@ -2,13 +2,15 @@
 ## AKA [caRot](https://carot.io/), @towardsuffering
 --- 
 
-I am passionate about learning new concepts and applying new workflows that challenge the old mental model.
+Innovative early-career database management professional with 5+years of experience producing data management products. I help people and organizations balance a defensive-offensive approach to data management. I build products that mitigate risks and protect against external threats as well as products that are growth centric and useful for predictive modeling, advanced statistical techniques, and AI.
 
-I try to "𝘵𝘩𝘪𝘯𝘬 𝘰𝘶𝘵𝘴𝘪𝘥𝘦 𝘵𝘩𝘦 𝘣𝘰𝘹" by seeking to understand other people's truths and trying to make their truths my own.
+My recent line of work involved balancing the defensive-offensive data management strategy for the product team at Armstrong Economics. On a day-to-day basis, I helped operate a single-source of truth system that aggregates all the system logs on a single-page application. I also took the lead on data science and machine learning projects and produced numerous reports on data quality, outlier analysis, null analysis, and data modeling, evaluation, and deployment.
 
-My experience in corporate culture is drawn from getting involved with retail banking, a financial technology startup, and a global economic firm.
+My previous lines of work also implemented some variation of the defensive-offensive data management strategy. At Intrinio, most of my work was growth oriented, which focused mainly on the classification accuracy for eXtensible Business Reporting Language (XBRL) text. I used machine learning and natural language processing to make very precise classifications, which resulted in better data quality, compute performance and customer service.
 
-My career objective is to increase service standards in the financials sector by building business applications, workflows, and pipelines to save time, improve quality, and promote financial and computer literacy.
+My work at Wells Fargo involved managing risk and compliance procedures to protect the firm against legal threats imposed by the Office of Comptroller of Currency (OCC) and the Consumer Financial Protection Bureau (CFPB). During my time, the firm was up against a lot of legal scrutiny, and it was part of my job to help defend the firm. My efforts in establishing legal safeguards for data analytics reporting were very well received by upper management, despite it being a tumultuous time for the firm as it faced account fraud in 2016.
+
+So here is what makes me tick. I am very passionate about learning new concepts and applying new workflows that challenge the old mental model. I try to think outside "𝘵𝘩𝘦 𝘣𝘰𝘹" by accounting for other people's wants, needs, desires, feelings and interests. My experience in financial services is diverse having worked retail banking, FinTech, and global capital markets. Also, sprinkle in a crypto and decentalized appication group I help organize. My career objective is to help people and orgainzations increase service standards in whatever sector by building business applications, workflows, and pipelines that balance negative externalities with growth and optimization.
 
 <!---
 towardsuffering/towardsuffering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
