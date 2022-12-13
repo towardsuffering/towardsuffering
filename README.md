@@ -1,5 +1,5 @@
 # Christopher A. Rotunno
-## AKA [@rotten_caRrot](https://carot.io/), @towardsuffering
+## AKA [@rotten_caRot](https://carot.io/), @towardsuffering
 --- 
 A trailblazer in data engineering with over seven years of experience in creating data management technologies. I assist businesses in balancing a defensive-offensive strategy for data management. I create growth-focused solutions that may be used for AI, sophisticated statistical methods, predictive modeling, and technologies that reduce risks and defend against outside threats.
 
