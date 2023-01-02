@@ -1,5 +1,5 @@
 # Christopher A. Rotunno
-## AKA [@rotten_caRot](https://carot.io/), @towardsuffering
+## AKA [@rotten_caRot](https://rottencarot.dev/), @towardsuffering
 --- 
 I am a highly skilled and motivated data engineer with a strong background in software development and data management. With over 8 years of experience in the industry, I have developed a strong foundation in a variety of programming languages, including Python, SQL, and JavaScript, and have a deep understanding of data structures, algorithms, and database design.
 
