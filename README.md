@@ -1,11 +1,15 @@
 # Christopher A. Rotunno
 ## AKA [@rotten_caRot](https://rottencarot.dev/), @towardsuffering
 --- 
-🌟 Experience the Magic of Business Alchemy: As a seasoned business virtuoso with a rich history of over a decade in delivering extraordinary results, I effortlessly merge the spheres of technology and business to skyrocket organizations to unprecedented levels of triumph. My extensive mastery in web development, network engineering, and database design, combined with an unparalleled talent for data analytics and business intelligence, establishes me as an essential catalyst for any team.
+Career Objective: To leverage 5+ years of industry expertise in data analytics to curate, analyze, and transform complex datasets into actionable insights that drive strategic decision-making in the finance industry.
 
-Embark with me on an exhilarating odyssey of perpetual advancement, where my unmatched problem-solving acumen and relentless dedication to risk mitigation will navigate your organization to a flourishing future. Seize this once-in-a-lifetime opportunity to harness my technical ingenuity and business wisdom, and transform your enterprise into an unstoppable juggernaut! 🌟
+Welcome to my data analytics journey! Since 2012, I've been on an exhilarating adventure within the captivating realm of data analytics. My relentless passion lies in unraveling the hidden stories that numbers and words hold, with a particular focus on the intricate landscape of the financial sector. From the intimate world of family-run enterprises to corporate banks, my career path is full of diverse experiences within the financial sector, each contributing invaluable insights into the data capabilities that mold organizations throughout their unique business life cycles.
 
-Let's join forces and shape a thriving future together! Reach out to me at 727-221-2980 or christopher.rotunno@outlook.com to unlock the limitless possibilities. I'm thrilled to expand my social and professional networks and eagerly anticipate connecting with you!
+My skills span from orchestrating precise data collection and preparation to intricate modeling, illuminating visualization, and the strategic deployment of comprehensive applications. The roles I've embraced, whether as a Software Developer, Cloud Orchestrator, IT Help Desk Support, or Tech Entrepreneur, have intricately woven to provide me with a kaleidoscope of perspectives and multifaceted experiences.
+
+Now, orchestrating my symphony of expertise in Business Intelligence (BI), Tableau, Data Warehousing, Extract, Transform, Load (ETL), Business Analysis, Data Modeling, Business Intelligence Tools, Microsoft Power BI, SQL, Data Visualization, Analytics, Requirements Analysis, Data Governance, and Microsoft SQL Server, I stand poised. My mission is to harmonize the infinite potential of data, crafting it into resonant and transformative outcomes.
+
+I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at christopher.rotunno@outlook.com
 
 <!---
 towardsuffering/towardsuffering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
