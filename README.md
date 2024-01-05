@@ -1,16 +1,41 @@
 # Christopher A. Rotunno
 ## AKA [@rotten_caRot](https://rottencarot.dev/), @towardsuffering
 --- 
-Career Objective: To leverage 5+ years of industry expertise in data analytics to curate, analyze, and transform complex datasets into actionable insights that drive strategic decision-making in the finance industry.
+Objective:
+I aim to utilize my extensive SaaS data analytics experience, spanning over five years, to embody and promote Root Labs' guiding principle, "Grounded in Analytics." I aim to transform complex data into clear, actionable insights, driving informed strategic decisions in the finance and economics sectors.
 
-Welcome to my data analytics journey! Since 2012, I've been on an exhilarating adventure within the captivating realm of data analytics. My relentless passion lies in unraveling the hidden stories that numbers and words hold, with a particular focus on the intricate landscape of the financial sector. From the intimate world of family-run enterprises to corporate banks, my career path is full of diverse experiences within the financial sector, each contributing invaluable insights into the data capabilities that mold organizations throughout their unique business life cycles.
+Professional Journey:
+I have been passionately immersed in data analytics since my transformational statistics class in 2012, with a particular emphasis on the financial industry. My career path has woven through diverse economic landscapes, from family businesses to navigating the dynamics of corporate banks. Key accomplishments include:
 
-My skills span from orchestrating precise data collection and preparation to intricate modeling, illuminating visualization, and the strategic deployment of comprehensive applications. The roles I've embraced, whether as a Software Developer, Cloud Orchestrator, IT Help Desk Support, or Tech Entrepreneur, have intricately woven to provide me with a kaleidoscope of perspectives and multifaceted experiences.
+-> Processing over 400,000 credit card applications.
+-> Performing comprehensive analysis of S&P 500 companies.
+-> Managing and interpreting over 150 GB of stock market data.
 
-Now, orchestrating my symphony of expertise in Business Intelligence (BI), Tableau, Data Warehousing, Extract, Transform, Load (ETL), Business Analysis, Data Modeling, Business Intelligence Tools, Microsoft Power BI, SQL, Data Visualization, Analytics, Requirements Analysis, Data Governance, and Microsoft SQL Server, I stand poised. My mission is to harmonize the infinite potential of data, crafting it into resonant and transformative outcomes.
+This journey has sharpened my analytical insight and adaptability, as evidenced by my effective management across three financial SaaS platforms.
 
-I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at christopher.rotunno@outlook.com
+My Expertise:
+-> Data Collection
+-> Data Modeling
+-> Data Visualization
+-> Strategic Application Deployment
 
+In roles such as SaaS Global Capital Markets Analyst, U.S. Financial Statements Data Quality Analyst, and Consumer Lending Analytics Intern, I have significantly advanced my capabilities in automation and optimizing business processes.
+
+Networking and Contact:
+I am keen on broadening my professional network and engaging in meaningful collaborations. Let's connect! Please contact me here on LinkedIn or via email at christopher.rotunno@outlook.com.
+
+Skills:
+
+● Statistical Analysis
+● Machine Learning
+● Deep Learning
+● Time-Series Analysis
+● Digital & Product Marketing
+● Target Market Selection
+● Customer Retention & Segmentation
+● Customer Service & Sales
+● Financial Analysis & Modeling
+● Python, R, SQL, Spark, AWS, Tableau, Docker
 <!---
 towardsuffering/towardsuffering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
