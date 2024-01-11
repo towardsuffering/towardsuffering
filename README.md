@@ -1,7 +1,7 @@
 # Christopher A. Rotunno
 ## AKA [@rotten_caRot](https://rottencarot.dev/), @towardsuffering
 --- 
-Objective:
+Objective:  
 I aim to utilize my extensive SaaS data analytics experience, spanning over five years, to embody and promote Root Labs' guiding principle, "Grounded in Analytics." I aim to transform complex data into clear, actionable insights, driving informed strategic decisions in the finance and economics sectors.
 
 Professional Journey:
