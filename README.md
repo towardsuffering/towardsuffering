@@ -1,42 +1,33 @@
 # Christopher A. Rotunno
 ## AKA [@rotten_caRot](https://rottencarot.dev/), @towardsuffering
 --- 
-Objective:  
-I aim to utilize my extensive SaaS data analytics experience, spanning over five years, to embody and promote Root Labs' guiding principle, "Grounded in Analytics." I aim to transform complex data into clear, actionable insights, driving informed strategic decisions in the finance and economics sectors.
+Objective:
+Leveraging a decade of multifaceted tech expertise, I'm committed to driving innovation and strategic growth at Root Labs. My mantra, "Grounded in Analytics," reflects a dedication to transforming intricate datasets into actionable insights, particularly in finance and economics. I aim to guide decision-making processes, ensuring they're informed, strategic, and data-driven.
 
-Professional Journey:  
-I have been passionately immersed in data analytics since my transformational statistics class in 2012, with a particular emphasis on the financial industry. My career path has woven through diverse economic landscapes, from family businesses to navigating the dynamics of corporate banks. Key accomplishments include:
+Professional Journey:
+Since my pivotal statistics class in 2012, my career has been a testament to the power of data in shaping financial strategies. From family-owned businesses to major corporate banks, I've navigated various economic environments, applying my analytical prowess to:
 
-- Processing over 400,000 credit card applications.
-- Performing comprehensive analysis of S&P 500 companies.
-- Managing and interpreting over 150 GB of stock market data.
+- Process over 400,000 credit card applications.
+- Conduct in-depth analyses of S&P 500 companies.
+- Manage and interpret more than 150 GB of stock market data.
 
-This journey has sharpened my analytical insight and adaptability, as evidenced by my effective management across three financial SaaS platforms.
+These experiences have honed my ability to adapt and innovate, managing financial SaaS platforms with analytical acumen and technical agility.
 
-My Expertise:  
-- Data Collection
-- Data Modeling
-- Data Visualization
-- Strategic Application Deployment
+My Expertise:
+- Data Analytics
+- Web Development
+- Cloud & Containerization
+- Audio, Streaming & Recording
 
-In roles such as SaaS Global Capital Markets Analyst, U.S. Financial Statements Data Quality Analyst, and Consumer Lending Analytics Intern, I have significantly advanced my capabilities in automation and optimizing business processes.
+In roles ranging from Global Capital Markets Analyst to Consumer Lending Analytics Intern, I've not only advanced data analytics but also integrated automation and cloud technologies to streamline business processes.
 
 Networking and Contact:
-I am keen on broadening my professional network and engaging in meaningful collaborations. Let's connect! Please contact me here on LinkedIn or via email at christopher.rotunno@outlook.com.
+I'm eager to expand my professional network and explore collaborative opportunities. If you're interested in harnessing data and technology to drive business growth, let's connect! Reach out at chrisrotunno@rootlaboratories.net
 
-Skills:  
-  
-- Statistical Analysis
-- Machine Learning
-- Deep Learning
-- Time-Series Analysis
+Skills:
+- Advanced Analytics (Statistical, Machine Learning, Deep Learning, Time-Series)
+- Business Intelligence (Python, R, SQL, Spark, AWS, Tableau)
+- Technical Proficiencies (Docker, HTML, CSS)
+- Strategic Business Development
 - Digital & Product Marketing
-- Target Market Selection
-- Customer Retention & Segmentation
-- Customer Service & Sales
 - Financial Analysis & Modeling
-- Python, R, SQL, Spark, AWS, Tableau, Docker
-<!---
-towardsuffering/towardsuffering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
