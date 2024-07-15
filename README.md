@@ -1,5 +1,5 @@
 # Christopher A. Rotunno
-## AKA [@rotten_caRot](https://rottencarot.dev/), @towardsuffering
+## AKA @towardsuffering
 --- 
 Committed to driving innovation and strategy through data-driven insights. My "Grounded in Analytics" mantra reflects a dedication to data analytics, business intelligence, and digital solutions for individuals, teams, and organizations.
 
