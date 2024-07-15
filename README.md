@@ -1,7 +1,9 @@
 # Christopher A. Rotunno
 ## AKA [@rotten_caRot](https://rottencarot.dev/), @towardsuffering
 --- 
-I'm committed to driving innovation and strategic growth for individuals, teams, and organizations. My mantra, "Grounded in Analytics," reflects a dedication to data-driven decision-making processes, ensuring they're accurate, strategic, and informed. From startups and family-owned businesses to major corporate banks, I've navigated various for-profit environments, applying my analytical prowess to:
+Committed to driving innovation and strategy through data-driven insights. My "Grounded in Analytics" mantra reflects a dedication to data analytics, business intelligence, and digital solutions for individuals, teams, and organizations.
+
+I've navigated diverse for-profit environments, from startups to corporate banks, applying my analytical prowess to:
 
 - Process over 400,000 credit card applications.
 - Conduct in-depth analyses of S&P 500 companies.
