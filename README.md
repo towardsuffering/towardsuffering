@@ -1,30 +1,30 @@
 # Christopher A. Rotunno
 ## AKA @towardsuffering
 --- 
-Committed to driving innovation and strategy through data-driven insights. My "Grounded in Analytics" mantra reflects a dedication to data analytics, business intelligence, and digital solutions for individuals, teams, and organizations.
+As a Nashville-based developer, I am deeply passionate about the intersection of technology, music, and behavioral economics. My mission is to create impactful digital solutions that not only drive business success but also enrich the communities they touch.
 
-I've navigated diverse for-profit environments, from startups to corporate banks, applying my analytical prowess to:
+Mission:
+To innovate digital solutions and cultivate thriving internet-based businesses by harnessing the power of strategic alliances, data-driven insights, and engaged community building.
 
-- Process over 400,000 credit card applications.
-- Conduct in-depth analyses of S&P 500 companies.
-- Manage and interpret more than 150 GB of stock market data.
+Key Achievements:
+• Spearheaded 10+ high-impact initiatives, generating over $4.8MM in revenue
+• Consistently deliver automated solutions that fuse analytical rigor with creative problem-solving
+• Pioneered AI-driven strategies that optimize business performance and drive growth
 
-These experiences have honed my ability to adapt and innovate, managing financial SaaS platforms with analytical acumen and technical agility in:
+Education:
+• MS in Business Analytics
+• MBA in the Music Industry
 
-- Data Analytics
-- Web Development
-- Cloud & Containerization
-- Audio, Streaming & Recording
+Expertise:
+• AI and machine learning applications in business contexts
+• Data analytics and business intelligence
+• Digital strategy development and execution
+• Project management and cross-functional leadership
+• Stakeholder relationship management
 
-In roles ranging from Global Capital Markets Analyst to Consumer Lending Analytics Intern, I've not only applied advanced data analytics but also integrated automation and cloud technologies to streamline business processes.
+I am passionate about compiling databases, uncovering insights, producing music, and building meaningful connections. My commitment is to a future filled with community warmth, financial prosperity, and the thrill of continuous innovation.
 
-I'm eager to expand my professional network and explore collaborative opportunities. If you're interested in harnessing data and technology to drive business growth, let's connect! Please feel free to reach out here on LinkedIn or email me at christopher.rotunno@outlook.com.
+Fluent in Spanish and always open to new opportunities and collaborations.
 
-Skills:
-- Advanced Analytics (Statistical, Machine Learning, Deep Learning, Time-Series)
-- Data Management (Python, R, SQL, Spark, AWS, Tableau)
-- Technical Proficiencies (WireShark, Docker, HTML, CSS)
-- Strategic Business Development (IP, CRM, Coding)
-- Digital & Product Marketing (Conjoint Analysis, Segmentation, Digital Advertising)
-- Music Industry (Copyright, Licensing, Recording, Production, Live Entertainment)
-- Financial Analysis & Modeling (Horizontal, Vertical, Ratios)
+Let’s connect and explore how we can create digital magic together!
+Contact: ChrisRotunno@Outlook.com
