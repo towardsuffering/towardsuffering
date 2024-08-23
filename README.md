@@ -8,19 +8,19 @@ To innovate digital solutions and cultivate thriving internet-based businesses b
 
 Key Achievements:
 - Spearheaded 10+ high-impact initiatives, generating over $4.8MM in revenue
-• Consistently deliver automated solutions that fuse analytical rigor with creative problem-solving
-• Pioneered AI-driven strategies that optimize business performance and drive growth
+- Consistently deliver automated solutions that fuse analytical rigor with creative problem-solving
+- Pioneered AI-driven strategies that optimize business performance and drive growth
 
 Education:
-• MS in Business Analytics
-• MBA in the Music Industry
+- MS in Business Analytics
+- MBA in the Music Industry
 
 Expertise:
-• AI and machine learning applications in business contexts
-• Data analytics and business intelligence
-• Digital strategy development and execution
-• Project management and cross-functional leadership
-• Stakeholder relationship management
+- AI and machine learning applications in business contexts
+- Data analytics and business intelligence
+- Digital strategy development and execution
+- Project management and cross-functional leadership
+- Stakeholder relationship management
 
 I am passionate about compiling databases, uncovering insights, producing music, and building meaningful connections. My commitment is to a future filled with community warmth, financial prosperity, and the thrill of continuous innovation.
 
