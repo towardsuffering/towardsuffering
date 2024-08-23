@@ -7,7 +7,7 @@ Mission:
 To innovate digital solutions and cultivate thriving internet-based businesses by harnessing the power of strategic alliances, data-driven insights, and engaged community building.
 
 Key Achievements:
-• Spearheaded 10+ high-impact initiatives, generating over $4.8MM in revenue
+- Spearheaded 10+ high-impact initiatives, generating over $4.8MM in revenue
 • Consistently deliver automated solutions that fuse analytical rigor with creative problem-solving
 • Pioneered AI-driven strategies that optimize business performance and drive growth
 
