@@ -3,7 +3,7 @@
 --- 
 As a Nashville-based developer, I am deeply passionate about the intersection of technology, music, and behavioral economics. My mission is to create impactful digital solutions that not only drive business success but also enrich the communities they touch.
 
-Mission:
+***Mission***:
 To innovate digital solutions and cultivate thriving internet-based businesses by harnessing the power of strategic alliances, data-driven insights, and engaged community building.
 
 Key Achievements:
